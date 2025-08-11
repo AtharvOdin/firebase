@@ -151,3 +151,9 @@ form label {
 .single-message-username {
   font-weight: 600;
 }
+
+.single-message-email {
+ font-weight: 400;
+ font-size: small;
+}
+
